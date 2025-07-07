@@ -9,7 +9,7 @@ A modular Retrieval-Augmented Generation (RAG) assistant that leverages LangChai
 - Integration with OpenAI, Mistral, and other Hugging Face models
 - Query handling via LangChain-based retrieval pipeline
 - Streamlit or FastAPI interface for interactive usage
-
+- 
 ## Tech Stack
 
 - Python
