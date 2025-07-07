@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG) is an architecture that combines the power of pre-trained language models with information retrieval. 
+By integrating a retriever to access external knowledge and a generator to synthesize responses, RAG systems provide more accurate and up-to-date answers than closed-book models.
